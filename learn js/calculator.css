@@ -121,8 +121,8 @@ button{
 
 button:focus {
     outline: 0;
-    width: 107px;
-    height: 107px;
+    width: 90px;
+    height: 90px;
     margin: 4px;
     background-color: rgb(52, 3, 97); 
     color: rgb(170, 127, 211);
@@ -239,9 +239,5 @@ width: 90%;
 
 
 }
-@media(max-width: 380 px){
-button{
-    width: 90px;
-  height: 90px;
-}
+
 }
