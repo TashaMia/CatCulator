@@ -239,7 +239,7 @@ width: 90%;
 
 
 }
-@media(max-width: 322px){
+@media(max-width: 380 px){
 button{
     width: 90px;
   height: 90px;
