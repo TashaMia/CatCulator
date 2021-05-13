@@ -241,7 +241,7 @@ width: 90%;
 }
 @media(max-width: 322px){
 button{
-    width: 100px;
-  height: 100px;
+    width: 90px;
+  height: 90px;
 }
 }
